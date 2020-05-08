@@ -5,7 +5,7 @@ Created on Mon Oct  8 17:25:00 2018
 @author: schoeniger
 """
 
-# Importieren der benötogten Module
+# Importieren der benötigten Module
 import numpy as np
 import matplotlib.pyplot as plt
 
