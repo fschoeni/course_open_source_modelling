@@ -25,4 +25,4 @@ yvals = yamamura(np.radians(xvals))
 plt.title('Sputtering yield according to the Yamamura formula')
 plt.plot(xvals, yvals, 'r+-', label='Yamamura(theta)')
 plt.legend()
-plt.show()
+
