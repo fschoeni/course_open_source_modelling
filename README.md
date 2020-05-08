@@ -19,3 +19,10 @@ limitations under the License.
 ## Description
 
 Repository for practice and homework during the course (SS2020)
+
+The project was created for the purpose of the lecture "Open Source Energy System Modeling" in spring 2020 held as an online format. 
+The file "HA1.py" contains two Python functions. yamamura() calculates the sputtering yield in dependance of a tilt angle. roses() is 
+an exponential function for the purpose of this assignment. Both functions are tested by "test_HA1.py".
+
+
+
