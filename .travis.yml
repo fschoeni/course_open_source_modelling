@@ -1,7 +1,7 @@
  7 lines (6 sloc) 78 Bytes
 language: python
 python:
-  - "3.6"
+  - "3.7"
 
 # command to run tests
 script:
