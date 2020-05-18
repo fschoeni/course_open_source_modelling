@@ -1,4 +1,4 @@
-# Course Open Source Energy System Modeling @ TUW 
+# Homework # 1 for the Course Open Source Energy System Modeling @ TUW 
 
 Copyright 2020 Franziska Schöniger
 
