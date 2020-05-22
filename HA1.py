@@ -14,9 +14,8 @@ import matplotlib.pyplot as plt
 # Definieren der Funktion Yamamura
 def yamamura(theta, Y_0 = 0.11, f = 1.9, b = 0.19):
     '''Yamamura equation to calculate the sputtering yield'''
- 
-    Y = Y_0*(np.cos(theta))**(-f)*np.exp(b*(1-1/np.cos(theta)))
-    return Y
+    return Y_0*(np.cos(theta))**(-f)*np.exp(b*(1-1/np.cos(theta)))
+
 
 # Plotten der Funktion
 xvals = np.linspace(0., 90.)
@@ -29,5 +28,4 @@ plt.legend()
 # Definieren der Funktion 
 def roses(b, theta):
     '''Exponential expression'''
-    
     return np.exp(b*(1-1/np.cos(theta)))
