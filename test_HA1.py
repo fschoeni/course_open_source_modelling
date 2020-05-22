@@ -7,4 +7,4 @@ def test_yamamura():
   
     
 def test_roses():
-    assert roses(0, 90) == 2
+    assert roses(0, 90) == 1
